@@ -1,4 +1,4 @@
-package com.vhkhai.student_service;
+package com.vhkhai.student_service.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

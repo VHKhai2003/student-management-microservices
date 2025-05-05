@@ -1,4 +1,4 @@
-package com.vhkhai.student_service;
+package com.vhkhai.student_service.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

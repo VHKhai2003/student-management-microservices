@@ -1,5 +1,9 @@
-package com.vhkhai.student_service;
+package com.vhkhai.student_service.service;
 
+import com.vhkhai.student_service.dto.School;
+import com.vhkhai.student_service.entity.Student;
+import com.vhkhai.student_service.dto.StudentResponse;
+import com.vhkhai.student_service.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
